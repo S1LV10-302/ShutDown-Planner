@@ -1,2 +1,2 @@
 # ShutDown-Planner
-A stopwatch to shutdown your laptop made with Python
+A stopwatch to shutdown your PC/laptop made with Python
